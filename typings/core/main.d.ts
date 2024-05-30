@@ -54,13 +54,6 @@ export function search(query: string | object, options?: {
             low_res: string;
         };
     }[];
-    videos: {
-        id: string;
-        url: string;
-        title: string;
-        author: string;
-        duration: string;
-    }[];
     knowledge_panel: KnowledgeGraph;
     featured_snippet: FeaturedSnippet;
     did_you_mean: string;

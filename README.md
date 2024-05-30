@@ -170,7 +170,6 @@ console.log(response);
       }
     }
   ],
-  "videos": [],
   "knowledge_panel": {
     "type": "Video game",
     "title": "The Walking Dead",
