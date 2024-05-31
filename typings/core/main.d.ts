@@ -66,7 +66,6 @@ export function search(query: string | object, options?: {
         description: string;
         url: string;
     }[];
-    unit_converter: Converters;
     people_also_ask: string[];
     people_also_search: {
         title: string;
@@ -134,4 +133,3 @@ import Time = require("./nodes/Time");
 import Location = require("./nodes/Location");
 import Dictionary = require("./nodes/Dictionary");
 import Translation = require("./nodes/Translation");
-import Converters = require("./nodes/Converters");

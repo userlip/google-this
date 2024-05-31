@@ -27,13 +27,6 @@ export namespace SELECTORS {
     const FEATURED_SNIPPET_TITLE: string[];
     const FEATURED_SNIPPET_DESC: string[];
     const FEATURED_SNIPPET_URL: string;
-    const UNIT_CONVERTER_INPUT: string;
-    const UNIT_CONVERTER_OUTPUT: string;
-    const UNIT_CONVERTER_FORMULA: string;
-    const INPUT_CURRENCY_NAME: string;
-    const OUTPUT_CURRENCY_NAME: string;
-    const CURRENCY_CONVERTER_INPUT: string;
-    const CURRENCY_CONVERTER_OUTPUT: string;
     const WEATHER_LOCATION: string;
     const WEATHER_FORECAST: string;
     const PRECIPITATION: string;
