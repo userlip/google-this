@@ -61,7 +61,6 @@ export function search(query: string | object, options?: {
     time: Time;
     location: Location;
     dictionary: Dictionary;
-    translation: Translation;
     top_stories: {
         description: string;
         url: string;
@@ -132,4 +131,3 @@ import Weather = require("./nodes/Weather");
 import Time = require("./nodes/Time");
 import Location = require("./nodes/Location");
 import Dictionary = require("./nodes/Dictionary");
-import Translation = require("./nodes/Translation");
