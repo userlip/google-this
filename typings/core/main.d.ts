@@ -127,7 +127,4 @@ export function image(query: string, options?: {
 import Axios = require("axios");
 import KnowledgeGraph = require("./nodes/KnowledgeGraph");
 import FeaturedSnippet = require("./nodes/FeaturedSnippet");
-import Weather = require("./nodes/Weather");
-import Time = require("./nodes/Time");
-import Location = require("./nodes/Location");
-import Dictionary = require("./nodes/Dictionary");
+
